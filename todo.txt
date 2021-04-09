@@ -1,0 +1,15 @@
+Another idea is to make a better functioning logic gates simulator. LIMITATIONS:
+1. Multi-bit width wire, only have 32 bit.
+2. SR latch, if you make any SR latch, or making any more memory, doesn't really work (one would have to manually reset).
+3. Clock speed is very low.
+4. Can't control color of a display.
+5. Bug fixes (since it hasn't been updated in 10 years).
+6. Doesn't handle large numbers of circuits very well.
+
+HOW IT IS: Alex will look over all the files from the open source, make a list of the most important functions (besides GUI), and say whether or not is on a harder or easier spectrum. Teammates then choose a file/function to work on.
+860 total files, dont need to be 1-1
+IMPORTANT TO DO: Alex make a list of most important files to work on/be implemented.
+Get list by Saturday.
+
+http://www.cburch.com/logisim/
+https://sourceforge.net/p/circuit/code/HEAD/tree/trunk/
