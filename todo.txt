@@ -6,8 +6,11 @@ Another idea is to make a better functioning logic gates simulator. LIMITATIONS:
 5. Bug fixes (since it hasn't been updated in 10 years).
 6. Doesn't handle large numbers of circuits very well.
 
-HOW IT IS: Alex will look over all the files from the open source, make a list of the most important functions (besides GUI), and say whether or not is on a harder or easier spectrum. Teammates then choose a file/function to work on.
-860 total files, dont need to be 1-1
+HOW IT IS: Alex will look over all the files from the open source, make a list of the most important functions
+(besides GUI), and say whether or not is on a harder or easier spectrum.
+Teammates then choose a file/function to work on.
+
+860 total files, don't need to be 1-1
 IMPORTANT TO DO: Alex make a list of most important files to work on/be implemented.
 Get list by Saturday.
 
